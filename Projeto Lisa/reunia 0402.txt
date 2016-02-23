@@ -1,0 +1,21 @@
+milestone
+columsn per region
+
+milestne dates => always the latest
+color code at project plan status
+
+they are going to use the files
+
+
+add 3 columns for review
+eview formulas of 4 last columsn proj plan
+
+export dashboard to sharepoint
+
+list of all projects with review flag
+
+proj code, name, owner, and flag
+
+dash tuesday morning
+
+first: repair high level workplans
